@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im-saurabh&label=Profile%20views&color=0e75b6&style=flat" alt="im-saurabh" /> </p>
 
-- 🌱 I’m currently studing **MSC (Computer Science)**
+- 🌱 I’m currently studying **MSC (Computer Science)**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-im-saurabh.vercel.app/](https://my-portfolio-im-saurabh.vercel.app/)
 
