@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently studying **MSC (Computer Science)**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-im-saurabh.vercel.app/](https://my-portfolio-im-saurabh.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://saurabh-mhase-im-saurabh.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, BootStrap, React, TailwindCSS**
 
